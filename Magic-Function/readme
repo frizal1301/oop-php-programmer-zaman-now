@@ -1,0 +1,2 @@
+Magic function adalah function yang sudah ditentukan kegunaannya
+terdapat beberapa magic function seperti __construct, __destruct, __debugInfo, __clone, __toString, __invoke
